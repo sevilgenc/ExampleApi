@@ -1,1 +1,2 @@
-# ExampleApi
+ # ExampleApi
+ Örnek API uygulaması. 
